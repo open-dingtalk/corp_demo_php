@@ -8,8 +8,8 @@
 
 二、在企业[OA后台](https://oa.dingtalk.com/contacts.htm#/contacts?_k=ipju0m)【企业应用-工作台】点击进入开发者后台，获取CorpID与CorpSecret
 
-<img src="https://img.alicdn.com/tfs/TB1nAhlSFXXXXbEapXXXXXXXXXX-1079-743.png" width="542" height="310">
-<img src="https://img.alicdn.com/tfs/TB1VnlrSpXXXXXsaFXXXXXXXXXX-1276-251.png" width="542" height="310">
+<img src="https://img.alicdn.com/tfs/TB1nAhlSFXXXXbEapXXXXXXXXXX-1079-743.png">
+<img src="https://img.alicdn.com/tfs/TB1VnlrSpXXXXXsaFXXXXXXXXXX-1276-251.png">
 
 三、将CORP_ID 和 SECRET 配置在config.php 中
 
@@ -22,12 +22,12 @@ define("SECRET", "");
 
 五、在企业OA后台【企业应用-应用管理】里面创建微应用，并把工程的首页地址（例如：http://xx.xx.xx.x/index.html）填到微应用首页中并保存。[如何创建微应用？](https://open-doc.dingtalk.com/docs/doc.htm?spm=a219a.7629140.0.0.hlq1Vw&treeId=367&articleId=104938&docType=1)。 该demo只能在移动端才会有效果。（注意：移动端点击应用跳转，如果无法访问你填写的首页地址，请确保你服务端与手机端的网络在同一个网段）
 
-<img src="https://img.alicdn.com/tfs/TB1_AJgRpXXXXX1aXXXXXXXXXXX-593-757.png" width="542" height="472">
+<img src="https://img.alicdn.com/tfs/TB1_AJgRpXXXXX1aXXXXXXXXXXX-593-757.png">
 
 
 六、打开钉钉手机客户端，打开工作面板，切换到自己上面创建微应用的企业，在工作面板上打开自己创建的微应用，可以看到如下界面，企业应用开发完成。
 
-<img src="https://img.alicdn.com/tfs/TB1TMrcahrI8KJjy0FpXXb5hVXa-750-1378.png" width="650" height="660">
+<img src="https://img.alicdn.com/tfs/TB1TMrcahrI8KJjy0FpXXb5hVXa-750-1378.png">
 
 # 项目代码结构解释
 
