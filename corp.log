@@ -1,0 +1,92 @@
+E/ 2017-10-27 08:35:44  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:35:49  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:36:49  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:37:01  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:37:44  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:38:22  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:42:25  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:42:26  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:42:27  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:43:01  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:43:03  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:43:51  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:44:36  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:45:23  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:45:31  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:45:54  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:48:28  [getConfig] ERR: no corp access token
+E/ 2017-10-27 08:48:33  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:05:04  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:05:07  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:05:23  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:05:24  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:14:08  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:14:29  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:16:04  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:17:07  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:22:25  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:30:44  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:30:45  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:30:50  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:30:51  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:35:51  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:35:51  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:35:53  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:38:48  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:38:49  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:39:38  [getConfig] ERR: no corp access token
+E/ 2017-10-27 09:39:39  [getConfig] ERR: no corp access token
+I/ 2017-10-27 10:39:27  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-27 11:10:19  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-27 11:30:41  [USERINFO]null
+E/ 2017-10-30 06:20:41  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:34:30  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:36:21  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:37:16  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:38:59  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:41:17  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:42:35  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:48:58  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:51:50  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:53:40  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:54:21  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:55:50  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:56:01  [getConfig] ERR: no corp access token
+E/ 2017-10-30 06:59:53  [getConfig] ERR: no corp access token
+E/ 2017-10-30 07:00:39  [getConfig] ERR: no corp access token
+I/ 2017-10-30 07:02:57  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:14:04  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:14:57  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:18:39  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:31:00  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:35:12  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:38:43  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:45:14  [USERINFO]null
+I/ 2017-10-30 07:46:39  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:51:37  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 07:53:57  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:01:16  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:01:22  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:01:57  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:06:57  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:08:53  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:13:37  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:15:34  [USERINFO]{"errcode":40014,"errmsg":"\u4e0d\u5408\u6cd5\u7684access_token"}
+I/ 2017-10-30 08:16:56  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 09:51:05  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 09:51:19  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 05:54:16  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 05:58:55  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 05:58:55  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 05:59:00  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 05:59:00  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 06:00:04  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 06:00:04  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 06:01:06  [USERINFO]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 06:01:06  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 06:02:55  [USERINFO-getuserid]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 06:02:56  [USERINFO]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 06:04:03  [USERINFO-getuserid]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 06:04:03  [get_userinfo]{"errcode":40078,"errmsg":"\u4e0d\u5b58\u5728\u7684\u4e34\u65f6\u6388\u6743\u7801"}
+I/ 2017-10-30 06:04:36  [USERINFO-getuserid]{"errcode":0,"errmsg":"ok","sys_level":1,"deviceId":"ca206224ac8fc34cafc98aae987bd623","userid":"manager3684","is_sys":true}
+I/ 2017-10-30 06:04:36  [get_userinfo]{"errcode":0,"unionid":"WfTAQ4VJJFev2r51jiPaFoQiEiE","openId":"WfTAQ4VJJFev2r51jiPaFoQiEiE","roles":[{"id":23003580,"name":"\u4e3b\u7ba1\u7406\u5458","groupName":"\u9ed8\u8ba4"},{"id":181690321,"name":"\u5e97\u957f","groupName":"\u6536\u94f6\u7ba1\u7406"},{"id":181663805,"name":"\u6536\u94f6","groupName":"\u6536\u94f6\u7ba1\u7406"}],"userid":"manager3684","isLeaderInDepts":"{1:false}","isBoss":false,"isSenior":false,"department":[1],"orderInDepts":"{1:69573326491976608}","dingId":"$:LWCP_v1:$1i29HS36Wwlo7AcdIh8SRQ==","mobile":"15901516820","errmsg":"ok","active":true,"avatar":"","isAdmin":true,"isHide":false,"jobnumber":"manager3684","name":"\ud83d\udc95\u674e\u5b81","stateCode":"86","position":""}
