@@ -156,7 +156,7 @@ public function sign($ticket, $nonceStr, $timeStamp, $url)
 
 [http://g.alicdn.com/dingding/open-develop/1.6.9/dingtalk.js](http://g.alicdn.com/dingding/open-develop/1.6.9/dingtalk.js)
 
-使用jsapi前应先确认jsapi是否需鉴权。若需要鉴权，需要使用jsapi提供的dd.config（PC客户端使用DingTalkPC.config）接口进行签名校验。【注意：jsapi是否需鉴权，请查看[移动端jsapi总览](https://open-doc.dingtalk.com/docs/doc.htm?spm=a219a.7629140.0.0.TnSROX&treeId=171&articleId=106834&docType=1)。需鉴权的jsapi，需要先进行dd.config注册然后再在dd.ready里面调用jsAPI】。
+使用jsapi前需先确认jsapi是否需鉴权；若需鉴权，需使用jsapi提供的dd.config（PC客户端使用DingTalkPC.config）接口进行签名校验。【注意：需鉴权的jsapi，需先进行dd.config注册然后再在dd.ready里面调用jsAPI】。jsapi是否需鉴权，请查看[移动端jsapi总览](https://open-doc.dingtalk.com/docs/doc.htm?spm=a219a.7629140.0.0.TnSROX&treeId=171&articleId=106834&docType=1)。
 
 ```javacsript
 dd.config({
