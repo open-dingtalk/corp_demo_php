@@ -20,7 +20,7 @@ define("SECRET", "");
 
 四、部署工程（apache或者Nginx）
 
-五、在企业OA后台【企业应用-应用管理】里面创建微应用，并把工程的首页地址（例如：http://xx.xx.xx.x/index.html）填到微应用首页中并保存。[如何创建微应用？](https://open-doc.dingtalk.com/docs/doc.htm?spm=a219a.7629140.0.0.hlq1Vw&treeId=367&articleId=104938&docType=1)。 该demo只能在移动端才会有效果。（注意：移动端点击应用跳转，如果无法访问你填写的首页地址，请确保你服务端与手机端的网络在同一个网段）
+五、在企业OA后台【企业应用-应用管理】里面创建微应用，并把工程的首页地址（例如：http://xx.xx.xx.x/index.html ）填到微应用首页中并保存。[如何创建微应用？](https://open-doc.dingtalk.com/docs/doc.htm?spm=a219a.7629140.0.0.hlq1Vw&treeId=367&articleId=104938&docType=1)。 该demo只能在移动端才会有效果。（注意：移动端点击应用跳转，如果无法访问你填写的首页地址，请确保你服务端与手机端的网络在同一个网段）
 
 <img src="https://img.alicdn.com/tfs/TB1_AJgRpXXXXX1aXXXXXXXXXXX-593-757.png">
 
